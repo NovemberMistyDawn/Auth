@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "MadeInfinity";
+    src: url("font/made_infinity/MADEINFINITYPersonalUse-Regular.otf");
+  }
+  
+  /* Aplica la fuente a todo el documento */
+  * {
+    font-family: "MadeInfinity";
+  }
